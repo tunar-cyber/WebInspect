@@ -1,3 +1,2 @@
-Please note that the following python libraries are needed for full functionality :) 
-1. colorama
-2. requests
+requests
+colorama
